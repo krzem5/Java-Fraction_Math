@@ -8,6 +8,7 @@ public class Main{
 	}
 
 
+
 	public Main(){
 		System.out.println(new Fraction(8L).log(new Fraction(2L)));
 	}
